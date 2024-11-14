@@ -27,7 +27,7 @@ To get started, clone the repository and install the required dependencies:
 
 ¿¿¿bash
 # Clone the repository
-git clone https://github.com/tarun1030/book-recommendation-and-info-extraction.git
+git clone https://github.com/tarun1030/BOOK-INFORMATION-EXTRACTION-AND-RECOMMENDATION.git
 
 # Navigate to the project directory
 cd book-recommendation-and-info-extraction
